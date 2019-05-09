@@ -1,2 +1,2 @@
 # OBJC_DS_Stack
-Stack implementation for Objective-C.
+Stack implementation in Objective-C.
